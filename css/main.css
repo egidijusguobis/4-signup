@@ -1,4 +1,5 @@
 body {
+    background-color: #44b2c8;
 }
 
 .container {
@@ -15,8 +16,13 @@ body {
     padding-bottom: 20px;
     background-color:#3f52b2;
     color: #ffff;
+}
+
+h1 {
 
 }
+
+
 
 a{
     color: #ffff;
