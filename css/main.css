@@ -4,16 +4,27 @@ body {
 .container {
     display: inline-block;
     width: 800px;
+    margin-top: 150px;
+    margin-left: calc(50% - 400px);
 }
 
 .left-column {
     width: 40%;
     float: left;
-    background-color: aqua;
+    padding: 40px;
+    padding-bottom: 20px;
+    background-color:#3f52b2;
+    color: #ffff;
+
+}
+
+a{
+    color: #ffff;
 }
 
 .right-column {
     width: 60%;
     float: left;
-    background-color: brown;
+    padding: 60px;
+    background-color: #ffff;
 }
