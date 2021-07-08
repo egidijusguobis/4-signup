@@ -15,7 +15,11 @@ body {
     padding: 40px;
     padding-bottom: 20px;
     background-color:#3f52b2;
+    background-image: url(../kalnai.jpeg);
+    background-size: cover;
+    background-position: center;
     color: #ffff;
+    
 }
 
 h1 {
