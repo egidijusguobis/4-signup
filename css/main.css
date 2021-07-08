@@ -15,16 +15,22 @@ body {
     padding: 40px;
     padding-bottom: 20px;
     background-color:#3f52b2;
+    background-image: url(../kalnai.jpeg);
+    background-size: cover;
+    background-position: center;
     color: #ffff;
+    
 }
 
 h1 {
 
 }
 
+.bottom-texts{
+    color: #ffff;
+}
 
-
-a{
+.bottom-texts > a {
     color: #ffff;
 }
 
@@ -34,3 +40,8 @@ a{
     padding: 60px;
     background-color: #ffff;
 }
+
+.close {
+
+}
+
