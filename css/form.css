@@ -34,6 +34,12 @@ form > .form-row > input:focus-visible {
     outline: 2px solid #777;
 }
 
+::placeholder {
+    font-style: italics;
+    color: #777;
+}
+    
+
 form > .form-row > button {
     font-size: 20px;
     line-height: 26px;
